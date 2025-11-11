@@ -1,5 +1,4 @@
 def approximate_pi(n_terms):
-
     pi_over_4_sum = 0.0
     
     for k in range(n_terms):
